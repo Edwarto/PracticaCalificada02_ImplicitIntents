@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab02_IntentsAndroid</string>
+    <string name="custom_call">Llamar</string>
+    <string name="custom_location">Ubicar</string>
+    <string name="custom_web">Navegar</string>
+    <string name="custom_camera">Capturar</string>
+    <string name="chooser_title">Elegir Aplicacion</string>
+    <string name="txt_formulario">FORMULARIO</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_sexo">Sexo</string>
+    <string name="txt_tel_fono">Teléfono</string>
+    <string name="txt_url">URL</string>
+    <string name="txt_correo_electronico">Correo electrónico</string>
+    <string name="btn_enviar">Enviar</string>
+</resources>
